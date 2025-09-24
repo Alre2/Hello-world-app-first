@@ -1,0 +1,4 @@
+// När man klickar på knappen byts texten i <h1>
+document.getElementById("changeBtn").addEventListener("click", function() {
+  document.getElementById("title").textContent = "Goodbye World";
+});
