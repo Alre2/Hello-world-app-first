@@ -1,0 +1,4 @@
+h1 {
+  color: blue; /* du kan byta färg om du vill */
+  font-family: Arial, sans-serif;
+}
